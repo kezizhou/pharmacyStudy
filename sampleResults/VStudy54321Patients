@@ -1,0 +1,9 @@
+intPatientID	intPatientNumber	dtmDOB	    intWeight	intSiteID	strSiteName
+9	            501001	            1973-08-23	176	        4	        Dr. Joe Smith
+10	            511001	            1964-12-27	103	        5	        Dr. Tim Schmitz
+11	            521001	            1986-03-16	157	        6	        Dr. Natalie Williams
+12	            501002	            1983-11-25	132	        4	        Dr. Joe Smith
+13	            511002	            1989-06-17	167	        5	        Dr. Tim Schmitz
+14	            521002	            1976-09-17	117	        6	        Dr. Natalie Williams
+15	            501003	            1978-10-22	174	        4	        Dr. Joe Smith
+16	            511003	            1993-02-17	109	        5	        Dr. Tim Schmitz

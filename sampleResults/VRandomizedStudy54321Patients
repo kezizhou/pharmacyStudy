@@ -1,0 +1,6 @@
+intPatientID	intPatientNumber	strSiteName	        strTreatment
+9	            501001	            Dr. Joe Smith	        A
+10	            511001	            Dr. Tim Schmitz	        P
+11	            521001	            Dr. Natalie Williams	A
+14	            521002	            Dr. Natalie Williams	A
+15	            501003	            Dr. Joe Smith	        P 

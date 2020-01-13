@@ -1,0 +1,9 @@
+intPatientID	intPatientNumber	strSiteName	                dtmVisit    	            strWithdrawDesc
+3	            121001	            St. Elizabeth Hospital	    2019-03-01 00:00:00.000	    Completed the study
+8	            111003	            Mercy Hospital	            2019-03-06 00:00:00.000	    Completed the study
+1	            101001	            Dr. Stewart Nelson	        2019-03-04 00:00:00.000	    Health issue - related to study
+4	            101002	            Dr. Stewart Nelson	        2019-03-07 00:00:00.000	    Health issue - unrelated to study
+15	            501003	            Dr. Joe Smith	            2019-03-07 00:00:00.000	    Completed the study
+10	            511001	            Dr. Tim Schmitz	            2019-03-09 00:00:00.000	    Completed the study
+12	            501002	            Dr. Joe Smith	            2019-03-03 00:00:00.000	    Patient withdrew consent
+16	            511003	            Dr. Tim Schmitz	            2019-02-28 00:00:00.000	    Personal reason
