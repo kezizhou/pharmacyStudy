@@ -1,0 +1,9 @@
+intPatientID	intPatientNumber	dtmDOB	        intWeight	intSiteID	strSiteName
+1	            101001	            1962-01-13	    205	        1	        Dr. Stewart Nelson
+2	            111001	            1973-02-24	    115	        2	        Mercy Hospital
+3	            121001	            1978-07-22	    170	        3	        St. Elizabeth Hospital
+4	            101002          	1968-10-01  	105	        1	        Dr. Stewart Nelson
+5	            111002	            1957-05-17	    190	        2	        Mercy Hospital
+6	            121002	            1986-03-27	    130	        3	        St. Elizabeth Hospital
+7	            101003	            1979-08-19	    200	        1	        Dr. Stewart Nelson
+8	            111003	            1993-12-07	    110	        2	        Mercy Hospital

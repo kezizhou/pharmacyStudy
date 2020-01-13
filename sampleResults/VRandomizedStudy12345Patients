@@ -1,0 +1,6 @@
+intPatientID	intPatientNumber	strSiteName	                strTreatment
+2	            111001	            Mercy Hospital	        A
+3	            121001	            St. Elizabeth Hospital	P
+6	            121002	            St. Elizabeth Hospital	A
+7	            101003	            Dr. Stewart Nelson	    P
+8	            111003	            Mercy Hospital	        P
